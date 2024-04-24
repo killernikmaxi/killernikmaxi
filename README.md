@@ -1,9 +1,9 @@
 # KILLERNIKMAXI
 
-###👋 Hi there! 
-###I am **killernik**, an ICT enthusiast! currently 
-###I am a java backend and bg developer and I work 
-###mainly creating plugins for Minecraft.
+### 👋 Hi there! 
+### I am **killernik**, an ICT enthusiast! currently 
+### I am a java backend and bg developer and i work 
+### Mainly creating plugins for Minecraft.
 
-###_If you're interested, you can take a look at my [portfolio](https://killerniks-portfolio.gitbook.io/killernik)._
-###_Preface: it's currently written in Italian._
+### _If you're interested, you can take a look at my [portfolio](https://killerniks-portfolio.gitbook.io/killernik)._
+### _Preface: it's currently written in Italian._
