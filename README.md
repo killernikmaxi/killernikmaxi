@@ -1,5 +1,3 @@
-# KILLERNIKMAXI
-
 ### 👋 Hi there! 
 I am **killernik**, an ICT enthusiast! currently 
 I am a java backend and bg developer and i work 
