@@ -1,7 +1,1 @@
-### 👋 Hi there! 
-   I am **killernik**, an ICT enthusiast! currently   
-   I am a java backend and junior developer and i work  
-   Mainly creating plugins for Minecraft. 
-    
- _If you're interested, you can take a look at my [portfolio](https://killerniks-portfolio.gitbook.io/killernik)._   
- _Preface: it's currently written in Italian._
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
